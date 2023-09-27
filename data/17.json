@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "MUSA Craft Beer",
+            "Stop Type": "Craft Beer", 
+                        "Price" : "$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.101577271163194,
+        38.7448999196302
+            ],
+            "type": "Point"
+          },
+          "id": 3
+        }
+      ]
+    }

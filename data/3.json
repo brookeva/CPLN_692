@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Bonjardim",
+        "Stop Type": "Restaurant", 
+                    "Price" : "$"
+      },
+      
+      "geometry": {
+        "coordinates": [
+          -9.140534999999602,
+      38.7159998143822
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    }
+  ]
+}

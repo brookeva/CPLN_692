@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Taberna in Bairro Do Avillez",
+            "Stop Type": "Restaurant", 
+                        "Price" : "$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.142376542328464,
+        38.712280442494375
+            ],
+            "type": "Point"
+          },
+          "id": 8
+        }
+      ]
+    }

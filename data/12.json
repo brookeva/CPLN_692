@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Monkey Mash",
+            "Stop Type": "Restaurant", 
+                        "Price" : "$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.144783542329037,
+        38.718234814512925
+            ],
+            "type": "Point"
+          },
+          "id": 11
+        }
+      ]
+    }

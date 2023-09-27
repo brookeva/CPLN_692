@@ -1,0 +1,22 @@
+     {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Ginjinha Sem Rival",
+            "Stop Type": "Bar", 
+                        "Price" : "$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.139593271162795,
+          38.715096442988
+            ],
+            "type": "Point"
+          },
+          "id": 3
+        }
+      ]
+    }

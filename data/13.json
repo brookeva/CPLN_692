@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Red Frog",
+            "Stop Type": "Bar", 
+                        "Price" : "$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.145810271162617,
+        38.71958418540754
+            ],
+            "type": "Point"
+          },
+          "id": 12
+        }
+      ]
+    }
