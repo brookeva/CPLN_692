@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Manteigaria",
+            "Stop Type": "Restaurant", 
+                        "Price" : "$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.144967042328858,
+              38.70887669775988
+            ],
+            "type": "Point"
+          },
+          "id": 7
+        }
+      ]
+    }

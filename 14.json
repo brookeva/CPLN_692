@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "The Folks",
+            "Stop Type": "Coffee Shop", 
+                        "Price" : "$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.138258457671668,
+        38.71096918591152
+            ],
+            "type": "Point"
+          },
+          "id": 13
+        }
+      ]
+    }

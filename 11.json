@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Prado",
+            "Stop Type": "Restaurant", 
+                        "Price" : "$$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.134870000000916,
+              38.710491070299355
+            ],
+            "type": "Point"
+          },
+          "id": 10
+        }
+      ]
+    }

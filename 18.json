@@ -1,0 +1,22 @@
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Tricky's",
+            "Stop Type": "Restaurant", 
+                        "Price" : "$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.143959000001473,
+              38.795296266799966
+            ],
+            "type": "Point"
+          },
+          "id": 3
+        }
+      ]
+    }

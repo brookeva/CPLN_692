@@ -1,0 +1,22 @@
+ {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Stop": "Neighborhood",
+            "Stop Type": "Café", 
+                        "Price" : "$$"
+          },
+          
+          "geometry": {
+            "coordinates": [
+              -9.150855271163095,
+        38.70885706982108
+            ],
+            "type": "Point"
+          },
+          "id": 6
+        }
+      ]
+    }
